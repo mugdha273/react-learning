@@ -1,0 +1,11 @@
+.no-exp {
+  display: inline-block; /* Allow it to take up only the necessary width */
+  color: white;
+  text-align: center;
+  font-size: 1rem;
+  margin: 2rem auto; /* Center horizontally with automatic left and right margins */
+  padding: 10px; /* Add padding for better readability */
+  border: 1px solid white; /* Add a border */
+  box-sizing: border-box; /* Include padding and border in element's total width */
+  border-radius: 12px;
+}

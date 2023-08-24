@@ -1,0 +1,11 @@
+.new-expense{
+    background-color: #a892ee;
+    text-align: center;
+    margin: 2rem auto;
+    border: 2px solid #f2f2f2;
+    border-radius: 12px;
+    width: 50rem;
+    padding: 1rem;
+    max-width: 95%;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+}
