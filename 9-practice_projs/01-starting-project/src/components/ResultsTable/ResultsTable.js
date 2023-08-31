@@ -1,9 +1,9 @@
-import './ResultTable.css';
-import React from 'react';
+import React from "react";
+import "./ResultsTable.css";
 
-const formatter = new Intl.NumberFormat('en-US', {
-  style: 'currency',
-  currency: 'USD',
+const formatter = new Intl.NumberFormat("en-US", {
+  style: "currency",
+  currency: "USD",
   minimumFractionDigits: 2,
   maximumFractionDigits: 2,
 });
